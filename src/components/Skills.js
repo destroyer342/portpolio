@@ -14,7 +14,7 @@ export default function Skills() {
         <span className="tags top-tags"> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
         <div className="text-zone">
           <h1
-            aria-label=" Hi, I’m Simranjeet,web developer."
+            aria-label=" Hi, I’m Rance,web developer."
             className="blast-root"
           >
             <span className="blast" style={{ color: "#23ffde" }}>
